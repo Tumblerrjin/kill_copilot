@@ -34,5 +34,3 @@ It doesn't uninstall Copilot or modify Windows. It just checks every few minutes
 If you want to get rid of it, delete `kill_copilot.vbs` from your Startup folder and restart/log out.
 
 Microsoft will inevitably change something eventually and break this, but as of right now it's working on my Windows 10 machine with `M365Copilot.exe`.
-
-MIT licensed. Do whatever you want with it.
